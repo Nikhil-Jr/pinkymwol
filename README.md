@@ -1,7 +1,7 @@
 <div align="center">
   <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83832372?v=4" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="PinkyMwol" src="https://img.shields.io/badge/Pinkymwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="PinkyMwol" src="https://img.shields.io/badge/Pinkymwol-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/afnanplk"><img title="Author" src="https://img.shields.io/badge/Author-afnanplk/pinkymwol?color=red&style=for-the-badge&logo=whatsapp"></a>
@@ -35,7 +35,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afnanplk&repo=pinkymole&theme=nightowl)](https://github.com/afnanplk/pinkymole)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afnanplk&repo=pinkymwol&theme=nightowl)](https://github.com/afnanplk/pinkymwol)
   </div>
     
 ## Setup
