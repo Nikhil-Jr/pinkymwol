@@ -70,7 +70,7 @@ Asena.addCommand({pattern: 'install ?(.*)', fromMe: true, desc: Lang.INSTALL_DES
     }
 }));
 
-Asena.addCommand({pattern: 'plugin', fromMe: true, desc: Lang.PLUGIN_DESC }, (async (message, match) => {
+Asena.addCommand({pattern: 'plugin', fromMe: true, dontAddCommandList: true, desc: Lang.PLUGIN_DESC }, (async (message, match) => {
     var mesaj = Lang.INSTALLED_FROM_REMOTE;
     var plugins = await Db.PluginDB.findAll();
     if (plugins.length < 1) {
@@ -86,7 +86,7 @@ Asena.addCommand({pattern: 'plugin', fromMe: true, desc: Lang.PLUGIN_DESC }, (as
     }
 }));
 
-Asena.addCommand({pattern: 'remove(?: |$)(.*)', fromMe: true, desc: Lang.REMOVE_DESC}, (async (message, match) => {
+Asena.addCommand({pattern: 'remove(?: |$)(.*)', fromMe: true, dontAddCommandList: true, desc: Lang.REMOVE_DESC}, (async (message, match) => {
     if (match[1] === '') return await message.sendMessage(Lang.NEED_PLUGIN);
     if (!match[1].startsWith('__')) match[1] = '__' + match[1];
     var plugin = await Db.PluginDB.findAll({ where: {name: match[1]} });
