@@ -4,8 +4,8 @@
     "logo": "https://avatars.githubusercontent.com/u/83832372?v=4",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/afnanplk/pinkymwol",
-    "website":   "https://t.me/farhan-dqz",
-    "success_url": "https://t.me/farhan-dqz",
+    "website":   "https://t.me/afnanplk",
+    "success_url": "https://t.me/afnanplk",
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
