@@ -111,7 +111,7 @@ async function whatsAsena () {
     }
     conn.on ('credentials-updated', async () => {
         console.log(
-            chalk.blueBright.italic('✅ Login Information Updated!')
+            chalk.blueBright.italic('✅ Pinkymwol Login Information Updated!')
         );
 
         const authInfo = conn.base64EncodedAuthInfo();
@@ -132,7 +132,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
 
     conn.on('open', async () => {
         console.log(
-            chalk.green.bold('✅ Login successful!')
+            chalk.green.bold('✅ Pinkymwol Login successful!')
         );
 
         console.log(
@@ -204,7 +204,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                     ); 
                 }
             }
-            else { await conn.sendMessage(conn.user.jid, '\n\n*JulieMwol Working as Public! 🧞‍♂️*\n\n', MessageType.text);
+            else { await conn.sendMessage(conn.user.jid, '\n\n*pinkymwol Working as Public! 🧞‍♂️*\n\n', MessageType.text);
                 await git.fetch();
                 var commits = await git.log([config.BRANCH + '..origin/' + config.BRANCH]);
                 if (commits.total === 0) {
@@ -249,7 +249,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                     ); 
                 }
             }
-            else { await conn.sendMessage(conn.user.jid, '\n\n*JulieMwol Working as Private! 🧞‍♂️*\n\n', MessageType.text);
+            else { await conn.sendMessage(conn.user.jid, '\n\n*PinkyMwol Working as Private! 🧞‍♂️*\n\n', MessageType.text);
                 await git.fetch();
                 var commits = await git.log([config.BRANCH + '..origin/' + config.BRANCH]);
                 if (commits.total === 0) {
@@ -605,7 +605,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     , MessageType.text, {detectLinks: false}
                                 );
                                 if (error.message.includes('URL')) {
-                                    return await conn.sendMessage(conn.user.jid, '*♻️ ERROR ANALYSIS [Farhan-Dqz] ♻️*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*♻️ ERROR ANALYSIS [Afnan-PLK] ♻️*' + 
                                         '\n== ```Error Resolved!``` ==' +
                                         '\n\n*Main Error:* _Only Absolutely URLs Supported_' +
                                         '\n*Reason:* _The usage of media tools (xmedia, sticker..) in the LOG number._' +
@@ -614,7 +614,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('conversation')) {
-                                    return await conn.sendMessage(conn.user.jid, '*♻️ ERROR ANALYSIS [Farhan-Dqz] ♻️*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*♻️ ERROR ANALYSIS [Afnan-PLK] ♻️*' + 
                                         '\n== ```Error Resolved!``` ==' +
                                         '\n\n*Main Error:* _Deleting Plugin_' +
                                         '\n*Reason:* _Entering incorrectly the name of the plugin wanted to be deleted._' +
@@ -623,7 +623,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('split')) {
-                                    return await conn.sendMessage(conn.user.jid, '*♻️ ERROR ANALYSIS [Farhan-Dqz] ♻️*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*♻️ ERROR ANALYSIS [Afnan-PLK] ♻️*' + 
                                         '\n== ```Error Resolved!``` ==' +
                                         '\n\n*Main Error:* _Split of Undefined_' +
                                         '\n*Reason:* _Commands that can be used by group admins occasionally dont see the split function._ ' +
@@ -632,7 +632,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('Ookla')) {
-                                    return await conn.sendMessage(conn.user.jid, '*♻️ ERROR ANALYSIS [Farhan-Dqz] ♻️*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*♻️ ERROR ANALYSIS [Afnan-PLK] ♻️*' + 
                                         '\n== ```Error Resolved!``` ==' +
                                         '\n\n*Main Error:* _Ookla Server Connection_' +
                                         '\n*Reason:* _Speedtest data cannot be transmitted to the server._' +
@@ -641,7 +641,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('params')) {
-                                    return await conn.sendMessage(conn.user.jid, '*♻️ ERROR ANALYSIS [Farhan-Dqz] ♻️*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*♻️ ERROR ANALYSIS [Afnan-PLK] ♻️*' + 
                                         '\n\n== ```Error Resolved!``` ==' +
                                         '\n\n*Main Error:* _Requested Audio Params_' +
                                         '\n*Reason:* _Using the TTS command outside the Latin alphabet._' +
@@ -650,7 +650,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('unlink')) {
-                                    return await conn.sendMessage(conn.user.jid, '*♻️ ERROR ANALYSIS [Farhan-Dqz] ♻️*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*♻️ ERROR ANALYSIS [Afnan-PLK] ♻️*' + 
                                         '\n*==* ```Error Resolved``` *==*' +
                                         '\n\n*Main Error:* _No Such File or Directory_' +
                                         '\n*Reason:* _Incorrect coding of the plugin._' +
@@ -659,7 +659,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('404')) {
-                                    return await conn.sendMessage(conn.user.jid, '*♻️ ERROR ANALYSIS [Farhan-Dqz] ♻️*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*♻️ ERROR ANALYSIS [Afnan-PLK] ♻️*' + 
                                         '\n== ```Error Resolved!``` ==' +
                                         '\n\n*Main Error:* _Error 404 HTTPS_' +
                                         '\n*Reason:* _Failure to communicate with the server as a result of using the commands under the Heroku plugin._' +
@@ -668,7 +668,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('reply.delete')) {
-                                    return await conn.sendMessage(conn.user.jid, '*♻️ ERROR ANALYSIS [Farhan-Dqz] ♻️*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*♻️ ERROR ANALYSIS [Afnan-PLK] ♻️*' + 
                                         '\n== ```Error Resolved!``` ==' +
                                         '\n\n*Main Error:* _Reply Delete Function_' +
                                         '\n*Reason:* _Using IMG or Wiki commands._' +
@@ -677,7 +677,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('load.delete')) {
-                                    return await conn.sendMessage(conn.user.jid, '*♻️ ERROR ANALYSIS [Farhan-Dqz] ♻️*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*♻️ ERROR ANALYSIS [Afnan-PLK] ♻️*' + 
                                         '\n== ```Error Resolved!``` ==' +
                                         '\n\n*Main Error:* _Reply Delete Function_' +
                                         '\n*Reason:* _Using IMG or Wiki commands._' +
@@ -686,7 +686,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('400')) {
-                                    return await conn.sendMessage(conn.user.jid, '*♻️ ERROR ANALYSIS [Farhan-Dqz] ♻️*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*♻️ ERROR ANALYSIS [Afnan-PLK] ♻️*' + 
                                         '\n== ```Error Resolved!``` ==' +
                                         '\n\n*Main Error:* _Bailyes Action Error_ ' +
                                         '\n*Reason:* _The exact reason is unknown. More than one option may have triggered this error._' +
@@ -695,7 +695,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('decode')) {
-                                    return await conn.sendMessage(conn.user.jid, '*♻️ ERROR ANALYSIS [Farhan-Dqz] ♻️*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*♻️ ERROR ANALYSIS [Afnan-PLK] ♻️*' + 
                                         '\n== ```Error Resolved!``` ==' +
                                         '\n\n*Main Error:* _Cannot Decode Text or Media_' +
                                         '\n*Reason:* _Incorrect use of the plug._' +
@@ -704,14 +704,14 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('unescaped')) {
-                                    return await conn.sendMessage(conn.user.jid, '*♻️ ERROR ANALYSIS [Farhan-Dqz] ♻️*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*♻️ ERROR ANALYSIS [Afnan-PLK] ♻️*' + 
                                         '\n== ```Error Resolved!``` ==' +
                                         '\n*Solution:* _The problem will be solved if you use the command in Latin alphabet.._'
                                         , MessageType.text
                                     );
                                 }
                                 else {
-                                    return await conn.sendMessage(conn.user.jid, '\n*🙇🏻 error kandethan ayilla 🙇🏻!*' +
+                                    return await conn.sendMessage(conn.user.jid, '\n*🙇🏻 eda mwonu error manasillayilla 🙇🏻!*' +
                                         '\n_You can ask in support group._'
                                         , MessageType.text
                                     );
