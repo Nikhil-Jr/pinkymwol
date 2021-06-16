@@ -76,7 +76,7 @@ if (Config.LANG == 'TR' || Config.LANG == 'AZ') {
 }
 else {
     
-    Asena.addCommand({pattern: 'phelp ?(.*)', fromMe: true, desc: h_DedEN}, (async (message, match) => {
+    Asena.addCommand({pattern: 'phelp ?(.*)', fromMe: true, dontAddCommandList: true, desc: h_DedEN}, (async (message, match) => {
 
         if (match[1] === '') {
             return await message.client.sendMessage(
