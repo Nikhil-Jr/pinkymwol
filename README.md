@@ -4,7 +4,7 @@
 <a href="#"><img title="PinkyMoll" src="https://img.shields.io/badge/Pinkymole-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-afnanplk/pinkymole?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/afnanplk"><img title="Author" src="https://img.shields.io/badge/Author-afnanplk/pinkymole?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
