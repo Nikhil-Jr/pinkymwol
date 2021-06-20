@@ -2,14 +2,13 @@
     "__ASENAJSON__": true,
     "LANGUAGE": "Mlayalam",
     "LANGCODE": "ml",
-    "AUTHOR": "Phaticusthiccy / Justin",
+    "AUTHOR": "afnan/farhan",
     "STRINGS": {
-        "_asena": {
-            "COMMAND": "കമാൻഡ്",
-            "DESC": "വിവരണം",
-            "EXAMPLE": "ഉദാഹരണം",
-            "NOT_FOUND": "*എനിക്ക് ഇതുപോലുള്ള ഒരു കമാൻഡ് കണ്ടെത്താൻ കഴിഞ്ഞില്ല*",
-            "WARN": "മുന്നറിയിപ്പ്"
+      "COMMAND": "Command",
+            "DESC": "Description",
+            "EXAMPLE": "Example",
+            "NOT_FOUND": "*ingane oru command kand ethan aayilla*",
+            "WARN": "Warn"
         },
        "_plugin": {
             "INSTALL_DESC": "exetrnal plugins install cheyaan.",
