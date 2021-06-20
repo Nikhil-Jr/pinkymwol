@@ -131,14 +131,14 @@
             "DOWNLOADING": "```chithrathil eyuthh add cheyyunu...```"
         },
         "log": {
-            "LOG": "Saves the message you reply to your private number.",
-            "REPLY": "*Please Reply To Any Message!*",
-            "ANIM": "Does not support animated stickers!",
+            "LOG": "ningal reply cheytha message ningalude privete numberil save aakum.",
+            "REPLY": "*eathenkkillum messagin replay cheyyu!*",
+            "ANIM": "animated sticker supporting alla!",
             "HEAD": "```===== [LOGGED MESSAGE] =====```\n\n",
             "USER": " From User Number \n",
             "FROM": " From the group with ID, ",
             "MSG": "Message: \n\n",
-            "SUC": "*Message Successfully Saved to LOG!*"
+            "SUC": "*Message vijayagramayyi logil save cheythu!*"
         },
         "ocr": {
             "OCR_DESC": "ningal reply cheytha chithrathile eyuth vayich theraan.",
@@ -202,12 +202,12 @@
             "IMG": "chithram upload cheyyunu ```{}``` number ```{} ```..."
         },
         "sticker": {
-            "STICKER_DESC": "chithram sticker aakum.",
+            "STICKER_DESC": "chithram sticker akkaan.",
             "NEED_REPLY": "*photo allenkil chithram reply cheyyu!*",
             "DOWNLOADING": "```Nissaram 🤠```"
         },
         "system_stats": {
-            "ALIVE_DESC": "bot working aano?",
+            "ALIVE_DESC": "bot working aano enn ariyan",
             "SYSD_DESC": "system properties kaanikkum."
         },
         "tagall": {
@@ -217,17 +217,17 @@
         "updater": {
             "UPDATER_DESC": "update indo enn ariyaan.",
             "UPDATE": "*ningalude bot up-to-date aan!*",
-            "NEW_UPDATE": "*pinkyMwol Update und* \n\n please ask support group before updating. Otherwise chance to get error\n\nChanges:\n```",
-            "UPDATE_NOW_DESC": "update cheyaan.",
+            "NEW_UPDATE": "*pinkyMwolk Update und* \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
+            "UPDATE_NOW_DESC": "botine update cheyaan.",
             "UPDATING": "```Updating..🐥```",
-            "INVALID_HEROKU": "*❌ Your Heroku information thett aan !*",
+            "INVALID_HEROKU": "*❌ ningal thanna Heroku information thett aan !*",
             "UPDATED": "*Updated 🤠✅*",
             "UPDATED_LOCAL": "*✅ vijayagaramayi Update cheythu!*",
             "AFTER_UPDATE": "*👰 pinkymwol Restarting ?*"
         },
         "weather": {
-            "WEATHER_DESC": "kaalavastha kaanikaan.",
-            "NEED_LOCATION": "* location type cheyyi!*\n*Example:* ```.weather New Delhi```",
+            "WEATHER_DESC": "ningal therrunna sthalathe kaalavastha kaanikkum.",
+            "NEED_LOCATION": "* location type cheyyi!*\n*Example:* ```.weather kozhikode```",
             "LOCATION": "sthalam",
             "LAT": "Lattitude",
             "LONG": "Longitude",
@@ -238,7 +238,7 @@
             "WIND": "Wind Speed",
             "CLOUD": "Cloud",
             "NOT_FOUND": "```ingane oru sthalam enikk kandethaan aayilla. 😖```",
-            "QUOTE_DESC": "eathellum oru quote theraan 😜 .",
+            "QUOTE_DESC": "oru nalla qoute paranj therum 😜 .",
             "NEED_LOCATIONA": "*Invalid Request*",
             "QUOTE": "Quote:",
             "AUTHOR": "paranjath:",
@@ -257,7 +257,7 @@
             "CM": "Hey,",
             "BOT_DESC": "botinod samsarikkaan.\n Use .bot <message>",
             "BOT": ":",
-            "JOKE_DESC": "oru thamasha vayikkaan.",
+            "JOKE_DESC": "oru thamasha parayyatte....",
             "JOKE": "thamasha:",
             "PUNCHLINE": "Punchline:",
             "EVINS_DESC": "korch insult kelkaan.",
@@ -281,11 +281,11 @@
             "NEED_SONG": "Song name para nenba 🥲.",
             "NOT_FOUNDS" : "angane oru paatt kittiyilla!",
             "JOOX_DESC": "paattinte detailsum linkum therum.",
-            "LYRICS_DESC": "paattinte lyricsinayyi.",
+            "LYRICS_DESC": "paattinte lyrics ayach therum.",
             "SONGLI": "Lyrics",
-            "TIN_DESC": "tinyurl vech thannitt ulla link neelam cheruthakaan.",
-            "BIT_DESC": " bitly vech link neelam cheuthakkaan.",
-            "NOT_FOUNDLI": "Lyricskand ethiyilla",
+            "TIN_DESC": "thannitt ulla link tinyurl vech neelam cheruthakaan.",
+            "BIT_DESC": " link bitly vech neelam cheruthakkaan.",
+            "NOT_FOUNDLI": "Lyrics kittiylla",
             "SLINK": "Link",
             "NEED_LINK":"link thaa",
             "IGTVDESC":"\n IGTV linkill nin video download cheyyum \n",
