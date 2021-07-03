@@ -25,6 +25,7 @@ Asena.addCommand({pattern: 'tagall ?(.*)', fromMe: true, dontAddCommandList: tru
     if (!im) return await message.client.sendMessage(message.jid,Lang.ADMİN,MessageType.text);
 
     if (match[1] !== '') {
+        let id = match[1];let id = match[1];
         grup = await message.client.groupMetadata(message.jid);
         var jids = [];
         mesaj = '';
@@ -51,6 +52,7 @@ Asena.addCommand({pattern: 'tagall ?(.*)', fromMe: true, dontAddCommandList: tru
     else if (message.reply_message && match[1] == '') {
         grup = await message.client.groupMetadata(message.jid);
         var jids = [];
+        let id = match[1];
         mesaj = '';
         grup['participants'].map(
             async (uye) => {
