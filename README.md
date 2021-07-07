@@ -1,14 +1,15 @@
+
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83832372?v=4" width="170" height="170"/>
+  <img border-radius: 15px src="https://avatars.githubusercontent.com/Nikhil-Jr" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="PinkyMwol" src="https://img.shields.io/badge/Pinkymwol-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="AleenaMwol" src="https://img.shields.io/badge/AleenaMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/afnanplk"><img title="Author" src="https://img.shields.io/badge/Author-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Nikhil-Jr"><img title="Author" src="https://img.shields.io/badge/Author-Nikhil-Jr/aleenabot?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/afnanplk">afnanplk</a> to make it public
+Project created by <a href="https://github.com/Nikhil-Jr">Nikhil Jr</a> to make it public
     <br>
        | © |
         Reserved |
@@ -18,13 +19,13 @@ Project created by <a href="https://github.com/afnanplk">afnanplk</a> to make it
 ----
 
   <p align="center">
-  <a href="https://github.com/afnanplk/pinkymwol ">
-    <img src="https://img.shields.io/github/repo-size/afnanplk/pinkymwol?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/Nikhil-Jr/aleenabot">
+    <img src="https://img.shields.io/github/repo-size/Nikhil-Jr/aleenabot?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/afnanplk/followers"><img title="Followers" src="https://img.shields.io/github/followers/afnanplk?color=blue&style=flat-square"></a>
-<a href="https://github.com/afnanplk/pinkymwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/afnanplk/pinkymwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/afnanplk/pinkymwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/afnanplk/pinkymwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/afnanplk/pinkymwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/afnanplk/pinkymwol?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/nikhiljr10/followers"><img title="Followers" src="https://img.shields.io/github/followers/Nikhil-Jr10?color=blue&style=flat-square"></a>
+<a href="https://github.com/Nikhil-Jr/aleenabot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Nikhil-Jr/aleenabot?color=blue&style=flat-square"></a>
+<a href="https://github.com/Nikhil-Jr/aleenabot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Nikhil-Jr/aleenabot?color=blue&style=flat-square"></a>
+<a href="https://github.com/Nikhil-Jr/aleenabot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Nikhil-Jr/aleenabot?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -32,10 +33,10 @@ Project created by <a href="https://github.com/afnanplk">afnanplk</a> to make it
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/L7nVhwQh9NX59hqyVswgoG)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afnanplk&repo=pinkymwol&theme=nightowl)](https://github.com/afnanplk/pinkymwol)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhiljr10&repo=AleenaMwol&theme=nightowl)](https://github.com/Nikhil-Jr/aleenabot)
   </div>
     
 ## Setup
@@ -43,9 +44,9 @@ Click WA logo to Join Support Group 👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@afnanplk/PinkyMwol-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/afnanplk/pinkymwol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nikhil-Jr/aleenabot)
      </div>
 <br>
 <br >
@@ -60,8 +61,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/afnanplk/pinkymwol
-$ cd pinkymwol
+$ git clone https://github.com/Nikhil-Jr/aleenabot
+$ cd aleenabot
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -70,8 +71,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/afnanplk/pinkymwol
-$ cd pinkymwol
+$ git clone https://github.com/Nikhil-Jr/aleenabot
+$ cd aleenabot
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -91,10 +92,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Farhan](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) |  [![Nikhil Jr](https://github.com/Nikhil-Jr.png?size=100)](https://github.com/Nikhil-Jr) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+[farhan-dqz](https://github.com/farhan-dqz)  | [Nikhil Jr](https://github.com/Nikhil-Jr) | [afnanplk](https://github.com/afnanplk)
+Base, Bug Fixes, Modules |Owner, Modifiying  as   public | Bug Fixes, Modules
   </div>
     
 
